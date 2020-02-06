@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: /acessar
+Disallow: /acessar/
 
 Sitemap: https://gelopraiagrande.com.br/sitemap.xml
